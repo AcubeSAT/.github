@@ -13,3 +13,7 @@ From the more than 2500 nanosatellites flown into space, only 7 were destined to
 AcubeSAT aims to host the largest-scale biological experiment on a nanosatellite level so far.
 
 The nanosatellite currently designed by SpaceDot will have an in-house built pressurized vessel containing a microscopic assay and a lab-on-a-chip, able to sustain yeast _Saccharomyces cerevisiae_ growth, in order to probe the effects of radiation and microgravity conditions in low Earth orbit.
+
+---
+
+Note: All AcubeSAT's git repositories can be found in https://gitlab.com/acubesat/. Very few of these are here!
